@@ -21,6 +21,7 @@
 | OS Disk (NVMe) | Samsung 960 Evo 250GB |
 | Data Disk (Sata3) | KingDian S370 512GB |
 ###
+<img src="./ss.png" width=450/>
 
 **macOS version compatibility**: 11.0 | 10.15  
 **OpenCore version bootloader**: 0.6.2  
