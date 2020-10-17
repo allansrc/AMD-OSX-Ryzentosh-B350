@@ -36,7 +36,7 @@
 
 ** Adobe applications crash on AMD Hackintosh. But, You can fix it easily. Just google it about to get it working.
 ** Virtualization don't work property on "Ryzentoshes". In another hand, you can use VirtualBox or Parallels Desktop working as stable as possible.
-So if you need Android Studio emulator, try using on these previous VM software, or GiveUp.
+So if you need ***Android Studio emulator***, try using on these previous VM software (**Genymotion + vBox**), or Just giveUp.
 
 ## GUIDES
  - [**AMD Installation Guides**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
