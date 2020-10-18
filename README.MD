@@ -49,7 +49,9 @@ So if you need ***Android Studio emulator***, try using on these previous VM sof
 ## HOW to USE THIS REPO
 
 First things first. Get [**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS) to generate your SMBIOS IDs. 
-You must run it and select **Generate SMBIOS** AS A **iMacPro1,1**.
+#### Do not use same ids in this repo! 
+You must run it and select **Generate SMBIOS** AS A **iMacPro1,1** or **MacPro7,1**. Then set ids generated in on your platform info. 
+
 
 
 
