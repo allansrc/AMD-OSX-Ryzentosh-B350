@@ -1,6 +1,8 @@
 #
 # AMD Ryzen 5 3600 - B350 - RX580 8GB OC
 
+<img src="./sss.png" width=450/>
+
 ### >>> Disclamer 
 #
 #### This branch is a build for OpenCore bootloader
