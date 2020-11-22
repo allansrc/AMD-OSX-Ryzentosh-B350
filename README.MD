@@ -62,6 +62,8 @@ You must run it and select **Generate SMBIOS** AS A **iMacPro1,1** or **MacPro7,
 
 **_p.s.:_** for iMacPro1,1, you need remove **_MacProMemoryNotificationDisabler.kext_** from kexts folder.
 
+#### Do remove Memory fiel with its child dict if you dont use the same memories as me!
+
 ## Credits
 
 - [[DSTs / kext path] OpenCore](https://olarila.com)
